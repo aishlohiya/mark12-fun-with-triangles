@@ -16,4 +16,4 @@ function isTriangle() {
     }
 }
 
-triangleButton.addEventListener("click", isTriangle);
+triangleButton.addEventListener("click", isTriangle); 
